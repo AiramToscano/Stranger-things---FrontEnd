@@ -1,9 +1,21 @@
 # Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
 
-Aqui você vai encontrar os locais para colocar suas repostas relativas aos requisitos de frontend.
+# Project Stranger Things
+### Projeto realizado como estudante na [Trybe](https://www.betrybe.com/).
 
-**Lembre-se**: coloque as respostas apenas dos requisitos que contém o seguinte direcionamento:
+---
 
-  - Adicione os comandos utilizados, de maneira sequencial, ao README do frontend.
 
-**Nota**: Este direcionamento está presente no [repositório](https://github.com/tryber/sd-017-stranger-things) em que os requisitos do projeto são destrinchados.
+# Habilidades
+
+- Fazer deploy da aplicação no [Heroku](https://dashboard.heroku.com/) 
+
+- Ligar a aplicação na api que foi criada para o projeto.
+
+--- 
+
+# Links
+
+- API de [Stranger Things](https://airamtoscano-up.herokuapp.com) 
+- API Mundo Invertido do [Stranger Things](https://airamtoscano-dw.herokuapp.com/)
+- Aplicação do [Stranger Things](https://airamtoscano-pd.herokuapp.com/)
