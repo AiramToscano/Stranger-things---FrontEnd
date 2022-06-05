@@ -1,16 +1,16 @@
 # Boas vindas ao repositório frontend do projeto de Deploy - Stranger Things!
+---
 
 # Project Stranger Things
 ### Projeto realizado como estudante na [Trybe](https://www.betrybe.com/).
-
+### Toda aplicação front-end e as api back-end foram feitas por pessoas especialista da [Trybe](https://www.betrybe.com/).
 ---
-
 
 # Habilidades
 
 - Fazer deploy da aplicação no [Heroku](https://dashboard.heroku.com/) 
 
-- Ligar a aplicação na api que foi criada nesse [repositório](https://github.com/AiramToscano/Stranger-things--Backend) 
+- Ligar a aplicação front-end na Back-end e fazer o deploy desse [repositório](https://github.com/AiramToscano/Stranger-things--Backend) 
 
 --- 
 
