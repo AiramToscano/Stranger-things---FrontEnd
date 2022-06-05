@@ -3,7 +3,7 @@
 
 # Project Stranger Things
 ### Projeto realizado como estudante na [Trybe](https://www.betrybe.com/).
-### Toda aplicação front-end e as api back-end foram feitas por pessoas especialista da [Trybe](https://www.betrybe.com/).
+### Toda aplicação front-end e as api back-end foram feitas por pessoas especialistas da [Trybe](https://www.betrybe.com/).
 ---
 
 # Habilidades
