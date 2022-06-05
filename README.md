@@ -10,7 +10,7 @@
 
 - Fazer deploy da aplicação no [Heroku](https://dashboard.heroku.com/) 
 
-- Ligar a aplicação na api que foi criada para o projeto.
+- Ligar a aplicação na api que foi criada nesse [repositório](https://github.com/AiramToscano/Stranger-things--Backend) 
 
 --- 
 
